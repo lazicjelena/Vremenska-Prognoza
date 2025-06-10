@@ -5,6 +5,7 @@ Ovaj repozitorijum sadrži vremenske podatke koji se mogu koristiti za razvoj ap
 Fajl vremenski_podaci.csv sadrži vremenske podatke u intervalu od 1. januara 2023. do 2. maja 2025., sa merenjima na svaka 3 sata.
 
 Dostupne varijable:
+
 🌡️ Trenutna temperatura
 
 🌧️ Količina padavina (ukupno)
