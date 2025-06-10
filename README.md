@@ -21,7 +21,8 @@ Podaci su preuzeti sa:
 NOAA GEFS (Global Ensemble Forecast System)
 (https://noaa-gefs-pds.s3.amazonaws.com/index.html#gefs.20250505/00/atmos/)
 
-Upoređeni su sa zvaničnim podacima sa sajta Republičkog hidrometeorološkog zavoda Republike Srbije (RHMZ)
+Upoređeni su sa zvaničnim podacima sa sajta Republičkog hidrometeorološkog zavoda Republike Srbije (RHMZ) 
+(https://www.hidmet.gov.rs/latin/meteorologija/klimatologija_godisnjaci.php)
 
 
 
